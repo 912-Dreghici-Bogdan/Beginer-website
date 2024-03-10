@@ -1,0 +1,216 @@
+body
+{
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 5vh;
+}
+
+#bara_sus
+{
+position: absolute;
+left: 0;
+top: -16px;
+width: 100vw;
+background-color: #E46D25;
+list-style-type: none;
+}
+
+  
+  li {
+    float: left;
+  }
+
+  li a{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+      }
+  
+  li a:hover {
+    background-color: #F3C17F;
+             }
+
+#coperta
+{
+    width: 100vw;
+    height: 110vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 40px;
+}
+
+#paragraf_1
+{
+    text-align: justify;
+    position: absolute;
+    left: 150px;
+    right: 700px;
+}
+
+#titlu_1
+{
+    text-align: left;
+    position: relative;
+    left: 150px;
+}
+
+#poza_1
+{
+    position: absolute;
+    right: 100px;
+    width: 30%;
+}
+
+#titlu_2
+{
+    text-align: right;
+    position: relative;
+    right: 120px;
+}
+
+#paragraf_2
+{
+    text-align: justify;
+    position: absolute;
+    left: 750px;
+    right: 100px;
+}
+
+#poza_2
+{
+    position: absolute;
+    left: 150px;
+    width: 30%;
+}
+
+.text_c1
+{
+    text-align: justify;
+    position: absolute;
+    left: 150px;
+    right: 800px;
+
+}
+
+
+.text_c2
+{
+
+    text-align: justify;
+    position: absolute;
+    left: 800px;
+    right: 150px;
+
+}
+
+.titlu_c2
+{
+
+    text-align: right;
+
+}
+
+
+
+#lista
+{
+
+    padding-left: 15px;
+
+}
+
+.poze
+{
+
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12),
+                0 2px 2px rgba(0, 0, 0, 0.12),
+                0 4px 4px rgba(0, 0, 0, 0.12),
+                0 8px 8px rgba(0, 0, 0, 0.12),
+                0 16px 16px rgba(0, 0, 0, 0.12);
+
+    border-radius: 10px;
+}
+
+.AnimationIncrease
+{
+    transition: transform 0.2s;
+}
+
+.AnimationIncrease:hover
+{
+    
+    transform: scale(1.05);
+    opacity: 80%;
+
+}
+
+.col1
+{
+
+    text-align: justify;
+    position: absolute;
+    left: 150px;
+    right: 1100px;
+
+}
+
+.col2
+{
+
+    text-align: justify;
+    position: absolute;
+    left: 630px;
+    right: 610px;
+    
+}
+
+.col3
+{
+
+    text-align: justify;
+    position: absolute;
+    left: 1100px;
+    right: 150px;
+    
+}
+
+.poze2
+{
+
+    border-radius: 10px;
+
+}
+
+.rand1
+{
+
+    margin-left: 25px;
+
+}
+
+
+.ef
+{
+
+    margin-left: 570px;
+
+}
+
+
+.pozitionare
+{
+
+    margin-left: 17px;
+
+}
+
+#pozaf
+{
+
+position: absolute;
+bottom: 0;
+
+}
